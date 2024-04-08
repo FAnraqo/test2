@@ -144,6 +144,7 @@ fun client() {
 
     println("Client sending [Hello]")
     output.println("Hello")
+    //leeeeeee
     println("Client receiving [${input.readLine()}]")
     client.close()
 }

@@ -76,9 +76,9 @@ class MainActivity : AppCompatActivity() {
 //            setContentView(R.layout.second_layout)
 //        }
 
-//        sendHello.setOnClickListener{
-//            client()
-//        }
+        sendHello.setOnClickListener{
+            client()
+        }
 
     }
 //
